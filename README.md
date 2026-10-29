@@ -1,6 +1,6 @@
 # Rodokmen Jaroslava Polívky
 
-Veřejná pracovní verze: 31 osob, pět generací (nejstarší neúplná), 9 archivních dokladů.
+Veřejná pracovní verze: 35 osob, 6 generací (nejstarší neúplná), 11 archivních dokladů.
 
 Web: https://honzakud.github.io/rodokmen-polivka-web/
 
